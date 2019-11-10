@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1573350730 source:d:\coding\datastructures\learneddatastructures\main.cpp
+	<iostream>
+	<functional>
+	<ctime>
+	<cstdlib>
+	<stack>
+	"Stack.h"
+	<queue>
+	"Queue.h"
+	"LList.h"
+	<vector>
+
+1573294680 d:\coding\datastructures\learneddatastructures\include\stack.h
+
+1573294715 d:\coding\datastructures\learneddatastructures\include\queue.h
+
+1573304653 d:\coding\datastructures\learneddatastructures\include\llist.h
+	<functional>
+
